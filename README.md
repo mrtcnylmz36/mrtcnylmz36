@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrtcnylmz36&" alt="mrtcnylmz36" /></p>
 
-![snake gif](https://github.com/mrtcnylmz36/mrtcnylmz36/blob/output/github-contribution-grid-snake.gif)
